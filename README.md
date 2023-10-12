@@ -3,15 +3,9 @@ AYOO BELAJAR BERSAMA
 BERSAMA ARSYAA
 
 
-
-
-
-
-
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portofolio Saya</title>
@@ -22,39 +16,39 @@ BERSAMA ARSYAA
     padding: 0;
     }
 
-    header {
+header {
     background-color: #007bff;
     color: #fff;
     text-align: center;
     padding: 20px;
     }
 
-    nav ul {
+nav ul {
     list-style: none;
     padding: 0;
     background-color: #333;
     }
 
-    nav ul li {
+nav ul li {
     display: inline;
     margin-right: 20px;
     }
 
-    nav ul li a {
+nav ul li a {
     text-decoration: none;
     color: #fff;
     }
 
-    main {
+main {
     padding: 20px;
     }
 
-    section {
+section {
     margin-bottom: 20px;
     }
 
 
-    </style>
+</style>
     </head>
     <body>
     <header>
@@ -74,12 +68,12 @@ BERSAMA ARSYAA
         </section>
         <section id="portfolio">
             <h2>Portofolio</h2>
-            <!-- Daftar proyek Anda -->
-        </section>
+          
+</section>
         <section id="contact">
             <h2>Kontak</h2>
-            <!-- Formulir kontak atau informasi kontak -->
-        </section>
+           
+</section>
     </main>
     <footer>
         &copy; 2023 Portofolio Saya
