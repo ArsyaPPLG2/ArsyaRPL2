@@ -9,7 +9,13 @@ BERSAMA ARSYAA
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portofolio Saya</title>
-   
+   <style>
+       h1{
+           background-color:cyan;
+           width:100%;
+           height:1200;
+       }
+   </style>
 </head>
     <body>
     <header>
