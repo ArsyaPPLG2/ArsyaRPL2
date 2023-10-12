@@ -9,53 +9,54 @@ BERSAMA ARSYAA
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Portofolio Saya</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portofolio Saya</title>
     <style>
-body {
+    body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-}
+    }
 
-header {
+    header {
     background-color: #007bff;
     color: #fff;
     text-align: center;
     padding: 20px;
-}
+    }
 
-nav ul {
+    nav ul {
     list-style: none;
     padding: 0;
     background-color: #333;
-}
+    }
 
-nav ul li {
+    nav ul li {
     display: inline;
     margin-right: 20px;
-}
+    }
 
-nav ul li a {
+    nav ul li a {
     text-decoration: none;
     color: #fff;
-}
+    }
 
-main {
+    main {
     padding: 20px;
-}
+    }
 
-section {
+    section {
     margin-bottom: 20px;
-}
+    }
 
 
     </style>
-</head>
-<body>
+    </head>
+    <body>
     <header>
         <h1>Portofolio Saya</h1>
     </header>
@@ -84,5 +85,5 @@ section {
         &copy; 2023 Portofolio Saya
     </footer>
     <script src="index.js"></script>
-</body>
-</html>
+    </body>
+    </html>
