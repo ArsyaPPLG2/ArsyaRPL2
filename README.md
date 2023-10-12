@@ -1,8 +1,3 @@
-# ArsyaRPL2
-AYOO BELAJAR BERSAMA
-BERSAMA ARSYAA
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
