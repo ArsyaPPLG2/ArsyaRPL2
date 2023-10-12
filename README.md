@@ -8,48 +8,6 @@ BERSAMA ARSYAA
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
     <title>Portofolio Saya</title>
-    <style>
-        
-/* Styling dasar */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #007bff;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-    background-color: #333;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #fff;
-}
-
-main {
-    padding: 20px;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-/* Tambahkan styling khusus sesuai kebutuhan Anda */
-    </style>
 </head>
 <body>
     <header>
