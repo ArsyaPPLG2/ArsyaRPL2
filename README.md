@@ -10,7 +10,6 @@ h1 {
     color: #fff;
     width:100%;
     text-align: center;
-    border:10px solid black;
     padding: 20px;
 }
    </style>
