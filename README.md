@@ -5,9 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portofolio Saya</title>
    <style>
- body{
-       background-color:black;    
-}
 h1 {
     background-color: #007bff;
     color: #fff;
@@ -18,10 +15,10 @@ h1 {
    </style>
 </head>
     <body>
-    <header>
-    <h1>Portofolio Saya</h1>
-    </header>
-    <nav>
+        <header>
+            <h1>Portofolio Saya</h1>
+        </header>
+ <nav>
 <ul>
             <li><a href="#about">Tentang Saya</a></li>
             <li><a href="#portfolio">Portofolio</a></li>
@@ -38,7 +35,7 @@ h1 {
             <p>Selain itu, saya memiliki keahlian dalam pengembangan sisi klien (frontend) dan juga sisi server (backend). Di sisi frontend, saya dapat memanfaatkan JavaScript dan framework seperti React untuk membuat aplikasi interaktif dan dinamis. Di sisi backend, saya menguasai bahasa pemrograman seperti Node.js atau PHP untuk membangun sistem yang kuat, handal, dan aman.
             </p>
 </section>
-        <section id="portfolio">
+    <section id="portfolio">
         <h2>Portofolio</h2>
           
 </section>
