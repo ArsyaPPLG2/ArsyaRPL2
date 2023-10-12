@@ -10,11 +10,12 @@ BERSAMA ARSYAA
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portofolio Saya</title>
    <style>
-       h1{
-           background-color:cyan;
-           width:100%;
-           height:1200;
-       }
+    header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
    </style>
 </head>
     <body>
