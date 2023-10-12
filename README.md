@@ -9,7 +9,7 @@ BERSAMA ARSYAA
 
 
 
-    <!DOCTYPE html>
+    //<!DOCTYPE html>//
     <html lang="en">
     <head>
     <meta charset="UTF-8">
@@ -84,6 +84,5 @@ BERSAMA ARSYAA
     <footer>
         &copy; 2023 Portofolio Saya
     </footer>
-    <script src="index.js"></script>
     </body>
     </html>
