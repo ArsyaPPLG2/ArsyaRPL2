@@ -5,7 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portofolio Saya</title>
    <style>
-
+ body{
+       background-color:black;    
+}
+h1 {
+    background-color: #007bff;
+    color: #fff;
+    width:100%;
+    text-align: center;
+    padding: 20px;
+}
    </style>
 </head>
     <body>
