@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Portofolio Saya</title>
 <style>
-h1 {
+header {
     background-color: #007bff;
     color: #fff;
     width:100%;
